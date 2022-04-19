@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\lucas\source\repos\ExerciciosTuka\ExerciciosTuka\Origem.cpp(28,35): warning C4305: 'argumento': truncamento de 'double' para 'float'
+  ExerciciosTuka.vcxproj -> C:\Users\lucas\source\repos\ExerciciosTuka\Debug\ExerciciosTuka.exe
